@@ -1,5 +1,10 @@
 # Compiled class file
 *.class
+.classpath
+.gitattributes
+.project
+.tern-project
+*.sql
 
 # Log file
 *.log
